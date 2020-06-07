@@ -19,11 +19,13 @@ Get a [Raspberry Pi](https://www.raspberrypi.org). I used following list:
 
 ![My Raspberry Pi unpacked](/images/myraspberrypi-small.png)
 
+#### Install Ubuntu Server
 Install Ubuntu server on Raspberry Pi (without the optional desktop!). 
 When this is done you have a Raspberry pi that is connected in your network. 
 Use following [How to install Ubuntu on your Raspberry Pi](https://ubuntu.com/tutorials/how-to-install-ubuntu-on-your-raspberry-pi#1-overview) to do this. 
 This tutorial is based on Ubuntu version 20.04.
- 
+
+#### Install bitcoin node software on ubuntu server
 To install bitcoin node on your Raspberry Pi use : [How to install bitcoin-core on Ubuntu](https://snapcraft.io/install/bitcoin-core/ubuntu). 
 
 ## Regression Test Node
