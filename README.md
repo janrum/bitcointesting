@@ -17,6 +17,8 @@ Get a [Raspberry Pi](https://www.raspberrypi.org). I used following list:
 * Sandisk microSDXC Extreme PRO 64GB 275MB/S UHS-II.
 * Some monitor with HDMI connection.
 
+![My Raspberry Pi unpacked](/images/raspberrypilist.jpeg)
+
 Install Ubuntu server on Raspberry Pi (without the optional desktop!). 
 When this is done you have a Raspberry pi that is connected in your network. 
 Use following [How to install Ubuntu on your Raspberry Pi](https://ubuntu.com/tutorials/how-to-install-ubuntu-on-your-raspberry-pi#1-overview) to do this. 
