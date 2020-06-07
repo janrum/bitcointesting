@@ -1,6 +1,5 @@
 # bitcointesting
 Test Bitcoin with API Tutorial.
-## Prepare your bitcoin node
 
 ## Table of contents
 * [Prepare your bitcoin node](#prepare-bitcoin-node)
